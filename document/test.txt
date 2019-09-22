@@ -1,0 +1,6 @@
+hello,world!
+This is my first git add test.
+Add a new line to test Modify.
+another new line.
+add to test line style.
+Add new line to test modify mode.
